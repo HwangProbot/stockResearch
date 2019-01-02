@@ -1,8 +1,8 @@
 # stockResearch
 
-於conda prompt中
-conda list看看
-若沒有
+於conda prompt中,
+conda list看看,
+若沒有安裝twstock,
 conda install twstock
-若沒有此套件
+若找不到此套件,再使用
 pip install twstock
